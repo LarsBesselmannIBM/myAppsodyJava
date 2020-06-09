@@ -1,1 +1,1 @@
-# myAppsodyJava
+# myAppsodyJava project
