@@ -1,3 +1,3 @@
 id: "20200608235718.84912663"
 project-name: myappsodyjava
-stack: docker.io/appsody/java-openliberty:0.2
+stack: docker.io/kabanero/java-openliberty:0.2
